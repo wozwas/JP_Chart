@@ -33,7 +33,7 @@ def chart(username, prompt)
 end
 
 def header()
-  header = open("Welcome_Header.txt")
+  header = open("Welcome_Header_v2.txt")
   puts header.read
 end
 
